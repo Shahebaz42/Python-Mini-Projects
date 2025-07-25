@@ -29,7 +29,7 @@ Dictionary data structure, Loops (while), Conditional and nested logic, String &
 Random Password Generator is used to generate random password that builds complex, secure passwords using letters, digits, and special characters.
 # concept:
 random.choice() from string library, Loops for character selection, String concatenation
-# Student Performance Analysis 📊🎓
+# Student Performance Analysis
 This project calculates key metrics like mean, median, mode, variance, and standard deviation — and identifies the top performer based on average marks.
 # concept:
 Object-Oriented Programming (OOP), Data analysis using pandas, Statistical functions from statistics, Class & method creation
